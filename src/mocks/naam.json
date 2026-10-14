@@ -1,0 +1,62 @@
+[
+  {
+    "id": "naam_1",
+    "text": "राम",
+    "language": "hi",
+    "is_active": true
+  },
+  {
+    "id": "naam_2",
+    "text": "राधा",
+    "language": "hi",
+    "is_active": true
+  },
+  {
+    "id": "naam_3",
+    "text": "कृष्ण",
+    "language": "hi",
+    "is_active": true
+  },
+  {
+    "id": "naam_4",
+    "text": "शिव",
+    "language": "hi",
+    "is_active": true
+  },
+  {
+    "id": "naam_5",
+    "text": "ॐ नमः शिवाय",
+    "language": "hi",
+    "is_active": true
+  },
+  {
+    "id": "naam_6",
+    "text": "हनुमान",
+    "language": "hi",
+    "is_active": true
+  },
+  {
+    "id": "naam_7",
+    "text": "गणेश",
+    "language": "hi",
+    "is_active": true
+  },
+  {
+    "id": "naam_8",
+    "text": "दुर्गा",
+    "language": "hi",
+    "is_active": true
+  },
+  {
+    "id": "naam_9",
+    "text": "लक्ष्मी",
+    "language": "hi",
+    "is_active": true
+  },
+  {
+    "id": "naam_10",
+    "text": "वाहेगुरु",
+    "language": "hi",
+    "is_active": true
+  }
+]

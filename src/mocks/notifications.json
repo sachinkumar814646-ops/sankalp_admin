@@ -1,0 +1,5 @@
+[
+  {"id":"notif_1","message":"New order received","createdAt":"2023-02-01T12:00:00Z","read":false},
+  {"id":"notif_2","message":"Payment pending for order #NNL-100002","createdAt":"2023-02-02T09:30:00Z","read":true},
+  {"id":"notif_3","message":"Product stock low: prod_9","createdAt":"2023-02-03T15:45:00Z","read":false}
+]
